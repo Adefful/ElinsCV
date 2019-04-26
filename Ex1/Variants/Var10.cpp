@@ -10,5 +10,6 @@ using namespace std;
 
 void var10()
 {
+	//try to push dddddn
     //Здесь должен быть ваш код
 } 
